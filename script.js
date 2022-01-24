@@ -12,11 +12,6 @@ require([
         container:"mapDiv",
         zoom:3
     });
-
-    const legend = new Legend({
-        view: view
-    });
-
-    view.ui.add(legend, {position: "top-right"});
+    
 
 });

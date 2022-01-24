@@ -1,0 +1,35 @@
+h2{
+    height: 10%;
+    width: auto;
+    text-align: center;
+    background-color: bisque;
+}
+
+#grafika1{
+    height: 90%;
+    width: 100%;
+}
+
+#link1{
+    height: 20%;
+    width: 33%;
+}
+
+#link2{
+    height: 20%;
+    width: 33%;
+}
+
+#link3{
+    height: 20%;
+    width: 33%;
+}
+
+#mapDiv{
+    height: 80%;
+    width: 50%;
+    zoom: 8;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
