@@ -10,19 +10,40 @@ h2{
     width: 100%;
 }
 
-#link1{
+#btn1{
+    display: inline-block;
+    margin: 0 auto;
     height: 20%;
+    height: 250px;
+    width: 300px;
     width: 33%;
+    background-image: url(Lotnisko-Gdansk-Rebiechowo.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
-#link2{
+#btn2{
+    display: inline-block;
+    margin: 0 auto;
     height: 20%;
+    height: 250px;
+    width: 300px;
     width: 33%;
+    background-image: url(Lotnisko\ Wrocław.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-#link3{
+#btn3{
+    display: inline-block;
+    margin: 0 auto;
     height: 20%;
+    height: 250px;
+    width: 300px;
     width: 33%;
+    background-image: url(lot-Wawa.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 #mapDiv{
