@@ -54,3 +54,17 @@ h2{
     margin-left: auto;
     margin-right: auto;
 }
+
+#tekst{
+    height: 40%;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+#stopka{
+    height: 20%;
+    width: 100%;
+    font-family: cursive;
+    font-size: small;
+}
