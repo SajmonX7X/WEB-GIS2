@@ -1,14 +1,37 @@
+body{
+    background-color: #93B5C6;
+}
+
 h2{
     height: 10%;
-    width: auto;
+    width: 100%;
     text-align: center;
-    background-color: bisque;
+    color: black;
+    background-color: #C9CCD5;
 }
 
 #grafika1{
     height: 90%;
     width: 100%;
+    position: relative;
 }
+
+/* .arrow{ */
+    /* border: solid black; */
+  /* border-width: 0 5px 5px 0; */
+  /* padding: 3px; */
+/* } */
+
+/* .down { */
+    /* transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    display: inline-block;
+    background-repeat: no-repeat;
+  } */
 
 #btn1{
     display: inline-block;
@@ -59,7 +82,7 @@ h2{
     height: 40%;
     width: 100%;
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: 18px;
 }
 
 #stopka{
